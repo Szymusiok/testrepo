@@ -1,0 +1,13 @@
+{
+  "serial": "P0300700018Blood",
+  "logs": [
+    {
+      "timeid": 1752481495081,
+      "timestamp": "2025-07-14 10:24:55",
+      "action": "PARAMETER_CHANGE",
+      "parameter_name": "SD_CONFIGURATION",
+      "old_value": "Down Rate: 6 mmHg, PMax: 245 mmHg, PMin: 28 mmHg",
+      "new_value": "Down Rate: 8 mmHg, PMax: 245 mmHg, PMin: 30 mmHg"
+    }
+  ]
+}
