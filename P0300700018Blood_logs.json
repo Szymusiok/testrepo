@@ -8,6 +8,14 @@
       "parameter_name": "SD_CONFIGURATION",
       "old_value": "Down Rate: 6 mmHg, PMax: 245 mmHg, PMin: 28 mmHg",
       "new_value": "Down Rate: 8 mmHg, PMax: 245 mmHg, PMin: 30 mmHg"
+    },
+    {
+      "timeid": 1752481554362,
+      "timestamp": "2025-07-14 10:25:54",
+      "action": "PARAMETER_CHANGE",
+      "parameter_name": "SD_CONFIGURATION",
+      "old_value": "Down Rate: 8 mmHg, PMax: 245 mmHg, PMin: 30 mmHg",
+      "new_value": "Down Rate: 10 mmHg, PMax: 245 mmHg, PMin: 30 mmHg"
     }
   ]
 }
