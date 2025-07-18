@@ -184,6 +184,14 @@
       "parameter_name": "SENSOR_INFO",
       "old_value": "Sensor Info: Sensor Type: Invalid, Serial Week: 255, Serial Year: 255",
       "new_value": "Sensor Info: Sensor Type: AMS5935, Serial Week: 1, Serial Year: 0"
+    },
+    {
+      "timeid": 1752817884324,
+      "timestamp": "2025-07-18 07:51:24",
+      "action": "PARAMETER_CHANGE",
+      "parameter_name": "SD_CONFIGURATION",
+      "old_value": "Down Rate: 6 mmHg, PMax: 225 mmHg, PMin: 20 mmHg",
+      "new_value": "Down Rate: 9 mmHg, PMax: 300 mmHg, PMin: 75 mmHg"
     }
   ]
 }
