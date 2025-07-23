@@ -1,0 +1,21 @@
+{
+  "serial": "P0300700018Blood",
+  "logs": [
+    {
+      "timeid": 1753277499034,
+      "timestamp": "2025-07-23 15:31:39",
+      "action": "PARAMETER_CHANGE",
+      "parameter_name": "MEASUREMENT_CONFIGURATION",
+      "old_value": "Measurement Configuration: Cuff Type: 0, Measurement Method: 2",
+      "new_value": "Measurement Configuration: Cuff Type: 1, Measurement Method: 2"
+    },
+    {
+      "timeid": 1753277499045,
+      "timestamp": "2025-07-23 15:31:39",
+      "action": "PARAMETER_CHANGE",
+      "parameter_name": "SD_CONFIGURATION",
+      "old_value": "Down Rate: 14 mmHg, PMax: 234 mmHg, PMin: 20 mmHg",
+      "new_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 14 mmHg"
+    }
+  ]
+}
