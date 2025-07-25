@@ -1,93 +1,12 @@
 {
-  "serial": "P0300700018Blood",
   "logs": [
     {
-      "timeid": 1753277499034,
-      "timestamp": "2025-07-23 15:31:39",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "MEASUREMENT_CONFIGURATION",
-      "old_value": "Measurement Configuration: Cuff Type: 0, Measurement Method: 2",
-      "new_value": "Measurement Configuration: Cuff Type: 1, Measurement Method: 2"
-    },
-    {
-      "timeid": 1753277499045,
-      "timestamp": "2025-07-23 15:31:39",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 14 mmHg, PMax: 234 mmHg, PMin: 20 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 14 mmHg"
-    },
-    {
-      "timeid": 1753277552963,
-      "timestamp": "2025-07-23 15:32:32",
+      "timeid": 1753437887654,
+      "timestamp": "2025-07-25 12:04:47",
       "action": "PARAMETER_CHANGE",
       "parameter_name": "CO_CONFIGURATION",
-      "old_value": "PMax: 10 mmHg, WorkTime: 10 s, HoldTime: 0 s, Repeats: 1",
-      "new_value": "PMax: 15 mmHg, WorkTime: 10 s, HoldTime: 0 s, Repeats: 1"
-    },
-    {
-      "timeid": 1753277615415,
-      "timestamp": "2025-07-23 15:33:35",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 14 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 16 mmHg"
-    },
-    {
-      "timeid": 1753277638287,
-      "timestamp": "2025-07-23 15:33:58",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 16 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 53 mmHg"
-    },
-    {
-      "timeid": 1753277679193,
-      "timestamp": "2025-07-23 15:34:39",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 53 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 53 mmHg"
-    },
-    {
-      "timeid": 1753277693095,
-      "timestamp": "2025-07-23 15:34:53",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 53 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 53 mmHg"
-    },
-    {
-      "timeid": 1753277739125,
-      "timestamp": "2025-07-23 15:35:39",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 21 mmHg, PMax: 220 mmHg, PMin: 53 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 144 mmHg, PMin: 53 mmHg"
-    },
-    {
-      "timeid": 1753277780303,
-      "timestamp": "2025-07-23 15:36:20",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 21 mmHg, PMax: 144 mmHg, PMin: 53 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 312 mmHg, PMin: 53 mmHg"
-    },
-    {
-      "timeid": 1753277789853,
-      "timestamp": "2025-07-23 15:36:29",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 21 mmHg, PMax: 312 mmHg, PMin: 53 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 312 mmHg, PMin: 53 mmHg"
-    },
-    {
-      "timeid": 1753283101857,
-      "timestamp": "2025-07-23 17:05:01",
-      "action": "PARAMETER_CHANGE",
-      "parameter_name": "SD_CONFIGURATION",
-      "old_value": "Down Rate: 21 mmHg, PMax: 312 mmHg, PMin: 53 mmHg",
-      "new_value": "Down Rate: 21 mmHg, PMax: 125 mmHg, PMin: 53 mmHg"
+      "old_value": "PMax: 107 mmHg, WorkTime: 21 s, HoldTime: 0 s, Repeats: 1",
+      "new_value": "PMax: 112 mmHg, WorkTime: 21 s, HoldTime: 0 s, Repeats: 1"
     }
   ]
 }
